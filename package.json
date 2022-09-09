@@ -27,6 +27,7 @@
 			"node_modules/(?!find-up|locate-path|p-locate|p-limit|yocto-queue|path-exists|execa|strip-final-newline|npm-run-path|path-key|onetime|mimic-fn|human-signals|is-stream)"
 		]
 	},
+	
 	"devDependencies": {
 		"@cloudflare/workers-types": "^3.2.0",
 		"undici": "^5.5.1"
